@@ -1,0 +1,444 @@
+2025-02-21 11:09:24,871 - text_processor - INFO - Processed 11 text chunks
+2025-02-21 11:09:24,960 - vectorizer - INFO - Generated 11 embeddings
+2025-02-21 11:09:24,961 - vector_store - INFO - Created new index with dimension 384
+2025-02-21 11:09:24,961 - vector_store - INFO - Inserted 11 records
+2025-02-21 11:09:34,357 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 11:09:34,380 - vector_store - INFO - Found 5 search results
+2025-02-21 12:02:30,075 - text_processor - INFO - Processed 11 text chunks
+2025-02-21 12:02:31,663 - vectorizer - INFO - Generated 11 embeddings
+2025-02-21 12:02:31,687 - vector_store - INFO - Created new index with dimension 384
+2025-02-21 12:02:31,758 - vector_store - INFO - Inserted 11 records for file ID 1
+2025-02-21 12:02:31,759 - text_processor - INFO - Processed 12 text chunks
+2025-02-21 12:02:31,820 - vectorizer - INFO - Generated 12 embeddings
+2025-02-21 12:02:31,821 - vector_store - INFO - Inserted 12 records for file ID 2
+2025-02-21 12:02:48,876 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 12:02:49,129 - vector_store - INFO - Found 5 search results
+2025-02-21 12:42:41,598 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 12:42:41,598 - vector_store - ERROR - Search failed: Index not initialized
+2025-02-21 12:42:41,598 - search - ERROR - Search failed: Index not initialized
+2025-02-21 13:13:41,380 - vector_store - INFO - Created new index with dimension 384
+2025-02-21 13:13:41,380 - text_processor - INFO - Processed 12 text chunks
+2025-02-21 13:13:41,485 - vectorizer - INFO - Generated 12 embeddings
+2025-02-21 13:13:41,486 - vector_store - INFO - Inserted 12 records for file ID 1
+2025-02-21 13:13:41,486 - text_processor - INFO - Processed 4 text chunks
+2025-02-21 13:13:41,501 - vectorizer - INFO - Generated 4 embeddings
+2025-02-21 13:13:41,501 - vector_store - INFO - Inserted 4 records for file ID 2
+2025-02-21 13:13:41,501 - text_processor - INFO - Processed 11 text chunks
+2025-02-21 13:13:41,571 - vectorizer - INFO - Generated 11 embeddings
+2025-02-21 13:13:41,572 - vector_store - INFO - Inserted 11 records for file ID 3
+2025-02-21 13:13:57,564 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 13:13:57,585 - vector_store - INFO - Found 5 search results
+2025-02-21 15:47:56,653 - vector_store - INFO - Created new index with dimension 384
+2025-02-21 15:47:56,657 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-21 15:47:56,658 - text_processor - INFO - Processed 12 text chunks
+2025-02-21 15:47:57,009 - vectorizer - INFO - Generated 12 embeddings
+2025-02-21 15:47:57,009 - vector_store - INFO - Inserted 12 records for file ID 1
+2025-02-21 15:47:57,010 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-21 15:47:57,011 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-21 15:47:57,011 - text_processor - INFO - Processed 0 text chunks
+2025-02-21 15:47:57,011 - upload - WARNING - No valid text chunks found in 10006.json
+2025-02-21 15:47:57,011 - text_processor - INFO - Processed 0 text chunks
+2025-02-21 15:47:57,011 - upload - WARNING - No valid text chunks found in 10006.json
+2025-02-21 15:47:57,011 - text_processor - INFO - Processed 3 text chunks
+2025-02-21 15:47:57,034 - vectorizer - INFO - Generated 3 embeddings
+2025-02-21 15:47:57,034 - vector_store - INFO - Inserted 3 records for file ID 2
+2025-02-21 15:47:57,035 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-21 15:47:57,036 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-21 15:47:57,036 - text_processor - INFO - Processed 9 text chunks
+2025-02-21 15:47:57,163 - vectorizer - INFO - Generated 9 embeddings
+2025-02-21 15:47:57,164 - vector_store - INFO - Inserted 9 records for file ID 3
+2025-02-21 15:47:57,165 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-21 15:47:57,166 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-21 15:47:57,166 - text_processor - INFO - Processed 12 text chunks
+2025-02-21 15:47:57,250 - vectorizer - INFO - Generated 12 embeddings
+2025-02-21 15:47:57,251 - vector_store - INFO - Inserted 12 records for file ID 4
+2025-02-21 15:47:57,252 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-21 15:47:57,253 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-21 15:48:42,836 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 15:48:42,859 - vector_store - INFO - Found 5 search results
+2025-02-21 15:49:26,001 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 15:49:26,018 - vector_store - INFO - Found 0 search results
+2025-02-21 15:55:49,194 - vectorizer - INFO - Generated 1 embeddings
+2025-02-21 15:55:49,209 - vector_store - INFO - Found 0 search results
+2025-02-24 10:22:09,570 - text_processor - INFO - Processed 11 text chunks
+2025-02-24 10:22:13,867 - vectorizer - INFO - Generated 11 embeddings
+2025-02-24 10:22:14,073 - vector_store - INFO - Inserted 11 records for file ID 1
+2025-02-24 10:22:14,352 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-24 10:22:14,353 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-24 10:22:54,629 - vectorizer - INFO - Generated 1 embeddings
+2025-02-24 10:22:56,407 - vector_store - INFO - Found 1 search results
+2025-02-24 13:40:59,195 - text_processor - INFO - Processed 10 text chunks
+2025-02-24 13:41:00,898 - vectorizer - INFO - Generated 10 embeddings
+2025-02-24 13:41:00,929 - vector_store - INFO - Inserted 10 records for file ID 1
+2025-02-24 13:41:01,039 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-24 13:41:01,118 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-24 13:41:01,118 - text_processor - INFO - Processed 9 text chunks
+2025-02-24 13:41:01,311 - vectorizer - INFO - Generated 9 embeddings
+2025-02-24 13:41:01,312 - vector_store - INFO - Inserted 9 records for file ID 2
+2025-02-24 13:41:01,337 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-24 13:41:01,341 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-24 13:41:14,168 - vectorizer - INFO - Generated 1 embeddings
+2025-02-24 13:41:14,395 - vector_store - INFO - Found 0 search results
+2025-02-24 13:41:26,632 - vectorizer - INFO - Generated 1 embeddings
+2025-02-24 13:41:26,735 - vector_store - INFO - Found 1 search results
+2025-02-24 15:58:47,200 - text_processor - INFO - Processed 3 text chunks
+2025-02-24 15:58:49,363 - vectorizer - INFO - Generated 3 embeddings
+2025-02-24 15:58:49,395 - vector_store - INFO - Inserted 3 records for file ID 1
+2025-02-24 15:58:49,540 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-24 15:58:49,541 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-24 15:59:00,602 - vectorizer - INFO - Generated 1 embeddings
+2025-02-24 15:59:00,726 - vector_store - INFO - Found 0 search results
+2025-02-24 16:11:06,238 - vectorizer - INFO - Generated 1 embeddings
+2025-02-24 16:11:06,238 - vector_store - INFO - Found 0 search results
+2025-02-25 11:18:30,486 - text_processor - INFO - Processed 12 text chunks
+2025-02-25 11:18:36,757 - vectorizer - INFO - Generated 12 embeddings
+2025-02-25 11:18:36,789 - vector_store - INFO - Inserted 12 records for file ID 1
+2025-02-25 11:18:36,834 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 11:18:36,837 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 11:18:48,835 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 11:18:48,924 - vector_store - INFO - Found 1 search results
+2025-02-25 12:00:55,888 - vector_store - INFO - Created new index with dimension 384
+2025-02-25 12:00:55,889 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:00:56,234 - text_processor - INFO - Processed 58 text chunks
+2025-02-25 12:00:57,118 - vectorizer - INFO - Generated 58 embeddings
+2025-02-25 12:00:57,120 - vector_store - INFO - Inserted 58 records for file ID 1
+2025-02-25 12:00:57,207 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:00:57,270 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:00:57,270 - text_processor - INFO - Processed 44 text chunks
+2025-02-25 12:00:57,769 - vectorizer - INFO - Generated 44 embeddings
+2025-02-25 12:00:57,772 - vector_store - INFO - Inserted 44 records for file ID 2
+2025-02-25 12:00:57,773 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:00:57,777 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:00:57,777 - text_processor - INFO - Processed 85 text chunks
+2025-02-25 12:00:58,387 - vectorizer - INFO - Generated 85 embeddings
+2025-02-25 12:00:58,390 - vector_store - INFO - Inserted 85 records for file ID 3
+2025-02-25 12:00:58,390 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:00:58,501 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:00:58,502 - text_processor - INFO - Processed 90 text chunks
+2025-02-25 12:00:59,014 - vectorizer - INFO - Generated 90 embeddings
+2025-02-25 12:01:00,469 - vector_store - INFO - Inserted 90 records for file ID 4
+2025-02-25 12:01:00,503 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:00,514 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:00,515 - text_processor - INFO - Processed 83 text chunks
+2025-02-25 12:01:01,024 - vectorizer - INFO - Generated 83 embeddings
+2025-02-25 12:01:01,027 - vector_store - INFO - Inserted 83 records for file ID 5
+2025-02-25 12:01:01,028 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:01,035 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:01,036 - text_processor - INFO - Processed 60 text chunks
+2025-02-25 12:01:01,554 - vectorizer - INFO - Generated 60 embeddings
+2025-02-25 12:01:01,555 - vector_store - INFO - Inserted 60 records for file ID 6
+2025-02-25 12:01:01,587 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:01,595 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:01,595 - text_processor - INFO - Processed 72 text chunks
+2025-02-25 12:01:02,104 - vectorizer - INFO - Generated 72 embeddings
+2025-02-25 12:01:02,107 - vector_store - INFO - Inserted 72 records for file ID 7
+2025-02-25 12:01:02,109 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:02,384 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:02,384 - text_processor - INFO - Processed 57 text chunks
+2025-02-25 12:01:02,886 - vectorizer - INFO - Generated 57 embeddings
+2025-02-25 12:01:02,889 - vector_store - INFO - Inserted 57 records for file ID 8
+2025-02-25 12:01:02,891 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:02,906 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:02,907 - text_processor - INFO - Processed 39 text chunks
+2025-02-25 12:01:03,520 - vectorizer - INFO - Generated 39 embeddings
+2025-02-25 12:01:03,522 - vector_store - INFO - Inserted 39 records for file ID 9
+2025-02-25 12:01:03,525 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:03,545 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:03,545 - text_processor - INFO - Processed 58 text chunks
+2025-02-25 12:01:04,086 - vectorizer - INFO - Generated 58 embeddings
+2025-02-25 12:01:04,089 - vector_store - INFO - Inserted 58 records for file ID 10
+2025-02-25 12:01:04,090 - vector_store - INFO - Saved FAISS index to E:\project-album-python\Demo Project\faiss_index.index
+2025-02-25 12:01:04,103 - vector_store - INFO - Saved metadata to metadata.json
+2025-02-25 12:01:27,451 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:01:27,467 - vector_store - INFO - Found 5 search results
+2025-02-25 12:01:47,689 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:01:47,690 - vector_store - INFO - Found 5 search results
+2025-02-25 12:02:21,226 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:02:21,226 - vector_store - INFO - Found 5 search results
+2025-02-25 12:02:56,349 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:02:56,349 - vector_store - INFO - Found 5 search results
+2025-02-25 12:03:11,581 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:03:11,581 - vector_store - INFO - Found 5 search results
+2025-02-25 12:03:50,926 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:03:50,926 - vector_store - INFO - Found 5 search results
+2025-02-25 12:04:37,361 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:04:37,385 - vector_store - INFO - Found 0 search results
+2025-02-25 12:14:58,575 - vectorizer - INFO - Generated 1 embeddings
+2025-02-25 12:14:58,602 - vector_store - INFO - Found 0 search results
+2025-02-28 11:55:12,695 - Utils.vector_store - INFO - Created new index with dimension 384
+2025-02-28 11:55:12,696 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 11:55:12,698 - Utils.text_processor - INFO - Processed 865 text chunks
+2025-02-28 11:55:15,377 - Utils.vectorizer - INFO - Generated 865 embeddings
+2025-02-28 11:55:15,391 - Utils.vector_store - INFO - Inserted 865 records for file ID 1
+2025-02-28 11:55:15,393 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 11:55:15,415 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-02-28 11:55:24,522 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 11:55:24,523 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 11:55:24,540 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 11:55:33,566 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 11:55:33,567 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 11:55:33,567 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 11:55:40,791 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 11:55:40,792 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 11:55:40,793 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:19:05,637 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-02-28 12:19:08,072 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-02-28 12:19:08,087 - Utils.vector_store - INFO - Inserted 849 records for file ID 1
+2025-02-28 12:19:08,089 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:19:08,110 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-02-28 12:19:30,370 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:19:30,370 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:19:30,382 - Utils.vector_store - INFO - Found 0 search results
+2025-02-28 12:19:38,333 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:19:38,334 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:19:38,334 - Utils.vector_store - INFO - Found 0 search results
+2025-02-28 12:19:40,664 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:19:40,664 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:19:40,665 - Utils.vector_store - INFO - Found 0 search results
+2025-02-28 12:19:54,967 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-02-28 12:19:57,265 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-02-28 12:19:57,340 - Utils.vector_store - INFO - Inserted 849 records for file ID 2
+2025-02-28 12:19:57,758 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:19:57,781 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-02-28 12:20:01,328 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:20:01,328 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:20:01,329 - Utils.vector_store - INFO - Found 0 search results
+2025-02-28 12:21:10,265 - Utils.vector_store - INFO - Created new index with dimension 384
+2025-02-28 12:21:10,266 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:21:10,268 - Utils.text_processor - INFO - Processed 850 text chunks
+2025-02-28 12:21:12,839 - Utils.vectorizer - INFO - Generated 850 embeddings
+2025-02-28 12:21:12,856 - Utils.vector_store - INFO - Inserted 850 records for file ID 1
+2025-02-28 12:21:12,858 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:21:12,872 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-02-28 12:21:21,624 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:21:21,625 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:21:21,659 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:21:44,267 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:21:44,267 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:21:44,268 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:22:15,525 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:22:15,526 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:22:15,526 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:22:28,970 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:22:28,971 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:22:28,971 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:22:43,026 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:22:43,027 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:22:43,027 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:22:48,580 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:22:48,581 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:22:48,581 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:36:12,935 - Utils.vector_store - INFO - Created new index with dimension 384
+2025-02-28 12:36:12,936 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:36:12,939 - Utils.text_processor - INFO - Processed 840 text chunks
+2025-02-28 12:36:15,254 - Utils.vectorizer - INFO - Generated 840 embeddings
+2025-02-28 12:36:15,255 - Routers.upload - ERROR - Error processing file photo_metadata_153.json: VectorStore.insert_records() missing 1 required positional argument: 'file_name'
+2025-02-28 12:36:26,210 - Routers.search - ERROR - Search failed: 'VectorStore' object has no attribute 'is_index_initialized'
+2025-02-28 12:40:12,495 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-02-28 12:40:14,757 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-02-28 12:40:14,757 - Routers.upload - ERROR - Error processing file photo_metadata_155.json: VectorStore.insert_records() missing 1 required positional argument: 'file_name'
+2025-02-28 12:49:54,701 - Utils.text_processor - INFO - Processed 874 text chunks
+2025-02-28 12:49:57,025 - Utils.vectorizer - INFO - Generated 874 embeddings
+2025-02-28 12:49:57,041 - Utils.vector_store - INFO - Inserted 874 records for file ID 1
+2025-02-28 12:49:57,042 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-02-28 12:49:57,058 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-02-28 12:50:09,042 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:50:09,043 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:50:09,061 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:50:18,516 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:50:18,516 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:50:18,517 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:50:27,586 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:50:27,586 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:50:27,587 - Utils.vector_store - INFO - Found 5 search results
+2025-02-28 12:50:39,562 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-02-28 12:50:39,562 - Routers.search - INFO - Query embedding generated successfully.
+2025-02-28 12:50:39,563 - Utils.vector_store - INFO - Found 5 search results
+2025-03-01 23:40:16,122 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-03-01 23:40:19,957 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-03-01 23:40:19,977 - Utils.vector_store - INFO - Inserted 849 records for file ID 1
+2025-03-01 23:40:19,979 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-01 23:40:20,010 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-01 23:40:40,673 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-01 23:40:40,674 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-01 23:40:40,761 - Utils.vector_store - INFO - Found 0 search results
+2025-03-01 23:40:52,256 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-01 23:40:52,256 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-01 23:40:52,257 - Utils.vector_store - INFO - Found 0 search results
+2025-03-07 18:12:15,830 - Utils.text_processor - INFO - Processed 840 text chunks
+2025-03-07 18:12:17,918 - Utils.vectorizer - INFO - Generated 840 embeddings
+2025-03-07 18:12:17,932 - Utils.vector_store - INFO - Inserted 840 records for file ID 1
+2025-03-07 18:12:17,935 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-07 18:12:17,962 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-07 18:17:33,998 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:17:33,998 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:17:34,015 - Utils.vector_store - INFO - Found 0 search results
+2025-03-07 18:17:46,464 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:17:46,464 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:17:46,465 - Utils.vector_store - INFO - Found 3 search results
+2025-03-07 18:17:54,395 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:17:54,395 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:17:54,396 - Utils.vector_store - INFO - Found 0 search results
+2025-03-07 18:18:02,870 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:18:02,870 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:18:02,871 - Utils.vector_store - INFO - Found 0 search results
+2025-03-07 18:18:07,764 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:18:07,764 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:18:07,766 - Utils.vector_store - INFO - Found 0 search results
+2025-03-07 18:18:11,787 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-07 18:18:11,787 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-07 18:18:11,788 - Utils.vector_store - INFO - Found 2 search results
+2025-03-11 11:19:53,347 - Utils.text_processor - INFO - Processed 850 text chunks
+2025-03-11 11:19:57,274 - Utils.vectorizer - INFO - Generated 850 embeddings
+2025-03-11 11:19:57,293 - Utils.vector_store - INFO - Inserted 850 records for file ID 1
+2025-03-11 11:19:57,355 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:19:57,456 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:20:05,396 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:05,396 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:05,433 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:10,344 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:10,344 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:10,345 - Utils.vector_store - INFO - Found 1 search results
+2025-03-11 11:20:15,449 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:15,450 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:15,451 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:15,580 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:15,581 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:15,582 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:22,549 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:22,550 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:22,551 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:27,422 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:27,422 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:27,423 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:30,949 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:30,949 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:30,951 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:34,647 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:34,647 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:34,648 - Utils.vector_store - INFO - Found 1 search results
+2025-03-11 11:20:42,367 - Utils.text_processor - INFO - Processed 842 text chunks
+2025-03-11 11:20:45,382 - Utils.vectorizer - INFO - Generated 842 embeddings
+2025-03-11 11:20:45,409 - Utils.vector_store - INFO - Inserted 842 records for file ID 2
+2025-03-11 11:20:45,504 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:20:45,573 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:20:49,682 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:49,682 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:49,683 - Utils.vector_store - INFO - Found 1 search results
+2025-03-11 11:20:54,248 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:54,249 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:54,250 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:20:59,477 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:20:59,478 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:20:59,479 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:24:24,694 - Utils.vector_store - INFO - Created new index with dimension 384
+2025-03-11 11:24:25,050 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:24:25,051 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-03-11 11:24:28,054 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-03-11 11:24:28,076 - Utils.vector_store - INFO - Inserted 849 records for file ID 1
+2025-03-11 11:24:28,078 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:24:28,096 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:24:36,254 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:24:36,255 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:24:36,285 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:24:43,334 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:24:43,335 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:24:43,335 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:24:50,755 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:24:50,755 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:24:50,756 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:25:01,437 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:25:01,438 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:25:01,438 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:25:09,525 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:25:09,525 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:25:09,526 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:25:17,640 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:25:17,640 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:25:17,641 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:25:25,716 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:25:25,717 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:25:25,717 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:28:51,389 - Utils.text_processor - INFO - Processed 858 text chunks
+2025-03-11 11:28:54,543 - Utils.vectorizer - INFO - Generated 858 embeddings
+2025-03-11 11:28:54,563 - Utils.vector_store - INFO - Inserted 858 records for file ID 1
+2025-03-11 11:28:54,567 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:28:54,599 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:28:54,606 - Utils.text_processor - INFO - Processed 857 text chunks
+2025-03-11 11:28:57,722 - Utils.vectorizer - INFO - Generated 857 embeddings
+2025-03-11 11:28:57,748 - Utils.vector_store - INFO - Inserted 857 records for file ID 2
+2025-03-11 11:28:57,751 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:28:57,799 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:29:06,466 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:06,467 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:06,487 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:29:11,292 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:11,292 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:11,293 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:29:19,364 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:19,365 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:19,366 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 11:29:25,708 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:25,709 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:25,709 - Utils.vector_store - INFO - Found 2 search results
+2025-03-11 11:29:32,171 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:32,171 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:32,172 - Utils.vector_store - INFO - Found 5 search results
+2025-03-11 11:29:38,787 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:38,787 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:38,788 - Utils.vector_store - INFO - Found 4 search results
+2025-03-11 11:29:47,399 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:29:47,400 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:29:47,401 - Utils.vector_store - INFO - Found 2 search results
+2025-03-11 11:58:44,000 - Utils.text_processor - INFO - Processed 855 text chunks
+2025-03-11 11:58:47,135 - Utils.vectorizer - INFO - Generated 855 embeddings
+2025-03-11 11:58:47,156 - Utils.vector_store - INFO - Inserted 855 records for file ID 1
+2025-03-11 11:58:47,160 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 11:58:47,221 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 11:58:56,449 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 11:58:56,450 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 11:58:56,491 - Utils.vector_store - INFO - Found 855 search results
+2025-03-11 12:19:56,289 - Utils.text_processor - INFO - Processed 849 text chunks
+2025-03-11 12:19:59,131 - Utils.vectorizer - INFO - Generated 849 embeddings
+2025-03-11 12:19:59,131 - Utils.vector_store - INFO - File ID 1 is already indexed. Skipping...
+2025-03-11 12:19:59,132 - Utils.vector_store - INFO - Skipping file ID 1, already indexed.
+2025-03-11 12:20:07,538 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:20:07,538 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:20:07,563 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:20:13,881 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:20:13,881 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:20:13,884 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:20:19,072 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:20:19,073 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:20:19,076 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:20:26,809 - Utils.text_processor - INFO - Processed 854 text chunks
+2025-03-11 12:20:29,855 - Utils.vectorizer - INFO - Generated 854 embeddings
+2025-03-11 12:20:29,857 - Utils.vector_store - INFO - File ID 2 is already indexed. Skipping...
+2025-03-11 12:20:29,857 - Utils.vector_store - INFO - Skipping file ID 2, already indexed.
+2025-03-11 12:20:35,259 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:20:35,259 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:20:35,263 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:22:08,623 - Utils.text_processor - INFO - Processed 882 text chunks
+2025-03-11 12:22:11,644 - Utils.vectorizer - INFO - Generated 882 embeddings
+2025-03-11 12:22:11,948 - Utils.vector_store - INFO - Inserted 882 records for file ID 1
+2025-03-11 12:22:11,952 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 12:22:12,007 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 12:22:19,045 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:22:19,046 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:22:19,062 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:22:23,642 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:22:23,643 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:22:23,644 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:22:28,565 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:22:28,565 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:22:28,567 - Utils.vector_store - INFO - Found 0 search results
+2025-03-11 12:23:21,537 - Utils.vector_store - INFO - Created new index with dimension 384
+2025-03-11 12:23:21,887 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 12:23:21,888 - Utils.text_processor - INFO - Processed 847 text chunks
+2025-03-11 12:23:24,784 - Utils.vectorizer - INFO - Generated 847 embeddings
+2025-03-11 12:23:24,809 - Utils.vector_store - INFO - Inserted 847 records for file ID 1
+2025-03-11 12:23:24,811 - Utils.vector_store - INFO - Saved FAISS index to faiss_index.index
+2025-03-11 12:23:24,828 - Utils.vector_store - INFO - Saved metadata to metadata.json
+2025-03-11 12:23:33,658 - Utils.vectorizer - INFO - Generated 1 embeddings
+2025-03-11 12:23:33,658 - Routers.search - INFO - Query embedding generated successfully.
+2025-03-11 12:23:33,678 - Utils.vector_store - INFO - Found 5 search results

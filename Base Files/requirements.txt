@@ -1,0 +1,6 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.2
+python-multipart
+Ollama>= Llama3
